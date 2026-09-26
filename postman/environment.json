@@ -1,0 +1,28 @@
+{
+	"id": "e43cd882-f222-4bff-851b-8b84e9cf8266",
+	"name": "Restful-Booker-Env",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "createdBookingID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-09-26T15:45:43.241Z",
+	"_postman_exported_using": "Postman/12.29.4"
+}
