@@ -30,7 +30,7 @@ on the RESTful Booker API.
 ## Results
 
 20 tests passed
-1 tests failed
+1 test failed
 
 ## Skills Demonstrated
 
